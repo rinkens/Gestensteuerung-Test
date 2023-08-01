@@ -1,6 +1,6 @@
 ## Beschreibung
 
-Test-Programm für den Grove Gesture am Anschluss A des Calliope Mini.<br>
+Test-Programm für den Grove Gesture an Calliope Mini Anschluss A.<br>
 Code abgeleitet von [https://calliope.cc/calliope-mini/erweiterungen/sensoren/gestenerkennung](https://calliope.cc/calliope-mini/erweiterungen/sensoren/gestenerkennung).<br>
 Die originäre Erweiterung calliope-edu/pxt-grove in makecode.calliope.cc hat (Stand 01.08.2023) nicht funktioniert.
 
